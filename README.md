@@ -1,4 +1,4 @@
-# Modern React CRUD Dashboard
+# Universal CRUD Hub
 
 A premium, high-performance CRUD application built with React and Vite. This project features a sophisticated **Glassmorphism UI** and modular architecture.
 
