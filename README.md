@@ -40,10 +40,13 @@ npm run build
 
 ## 📸 Output Preview
 
+<img width="1330" height="636" alt="image" src="https://github.com/user-attachments/assets/71243a0f-4aec-4548-8223-a75d9df5ff7e" />
+
+
 The application features a sleek, dark-themed dashboard with deep indigo and violet gradients.
 
 ### Dashboard Overview
-- **Header**: Centered, gradient-text title "Modern CRUD Dashboard".
+- **Header**: Centered, gradient-text title "Universal CRUD hub".
 - **Form Section**: Translucent glass card with focus-highlighted inputs.
 - **Item Grid**: Automatically rows and columns of cards that react to hover.
 - **Interactive Buttons**: Linear-gradient primary buttons and high-contrast danger buttons.
