@@ -40,6 +40,9 @@ npm run build
 
 ## 📸 Output Preview
 
+<img width="1330" height="636" alt="image" src="https://github.com/user-attachments/assets/71243a0f-4aec-4548-8223-a75d9df5ff7e" />
+
+
 The application features a sleek, dark-themed dashboard with deep indigo and violet gradients.
 
 ### Dashboard Overview
