@@ -5,8 +5,8 @@ import ItemList from './components/ItemList'
 
 function App() {
   const [items, setItems] = useState([
-    { id: 1, name: 'Sample Item 1', description: 'This is a sample item' },
-    { id: 2, name: 'Sample Item 2', description: 'Another sample item' }
+    { id: 1, name: 'Project Alpha', description: 'Internal dashboard for analytics' },
+    { id: 2, name: 'Cloud Sync', description: 'Background service for data sync' }
   ]);
   const [newItem, setNewItem] = useState({ name: '', description: '' });
   const [editingId, setEditingId] = useState(null);
