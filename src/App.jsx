@@ -5,8 +5,8 @@ import ItemList from './components/ItemList'
 
 function App() {
   const [items, setItems] = useState([
-    { id: 1, name: 'Project Alpha', description: 'Internal dashboard for analytics' },
-    { id: 2, name: 'Cloud Sync', description: 'Background service for data sync' }
+    { id: 1, name: 'Nexus Hub', description: 'Centralized network management dashboard' },
+    { id: 2, name: 'Quantum Vault', description: 'Secure encrypted storage for assets' }
   ]);
   const [newItem, setNewItem] = useState({ name: '', description: '' });
   const [editingId, setEditingId] = useState(null);
@@ -47,7 +47,7 @@ function App() {
 
   return (
     <div className="container" style={{ paddingBottom: '5rem' }}>
-      <h1>Antigravity CRUD Dashboard</h1>
+      <h1>Universal CRUD Hub</h1>
 
       <ItemForm
         editingId={editingId}
