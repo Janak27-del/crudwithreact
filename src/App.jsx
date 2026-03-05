@@ -47,7 +47,7 @@ function App() {
 
   return (
     <div className="container" style={{ paddingBottom: '5rem' }}>
-      <h1>Modern CRUD Dashboard</h1>
+      <h1>Antigravity CRUD Dashboard</h1>
 
       <ItemForm
         editingId={editingId}
