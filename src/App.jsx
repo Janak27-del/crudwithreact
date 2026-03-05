@@ -65,6 +65,16 @@ function App() {
         startEdit={startEdit}
         handleDeleteItem={handleDeleteItem}
       />
+      <footer style={{
+        marginTop: '5rem',
+        textAlign: 'center',
+        opacity: 0.5,
+        fontSize: '0.8rem',
+        borderTop: '1px solid var(--glass-border)',
+        paddingTop: '2rem'
+      }}>
+        <p>&copy; 2026 Developed with React + Vite &bull; All Rights Reserved</p>
+      </footer>
     </div>
   )
 }
